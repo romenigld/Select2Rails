@@ -1,3 +1,3 @@
 == Select2Rails gem sample
 
-App for select tags for Movies with Select2Rails gem and bootstrap-sass.
+A sample app for select tags for Movies with the Select2Rails gem and bootstrap-sass.
